@@ -26,7 +26,8 @@ This project is the first step in a broader initiative to apply HR analytics acr
 
 ## Screenshots
 
-![image](https://github.com/Pranavla/HR-analysis-Dashboard/assets/86297066/20dd8e71-8b23-4ff7-bfb7-431b885c983f)
+![image](https://github.com/Pranavla/HR-analysis-Dashboard/assets/86297066/20dd8e71-8b23-4ff7-bfb7-431b885c983f){:height="50%" width="50%"}
+
 
 
 ## Contributing
