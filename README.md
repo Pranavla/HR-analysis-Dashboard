@@ -24,19 +24,6 @@ This repository contains an interactive Power BI dashboard designed to provide c
 
 This project is the first step in a broader initiative to apply HR analytics across the entire organization. By starting with a focused group of 74 employees, the company aims to refine its data analysis techniques and expand them to include all employees in the near future.
 
-## Usage
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/HR-Analysis-Dashboard.git
-    ```
-
-2. Open the Power BI file (`HR_Analysis_Dashboard.pbix`) in Power BI Desktop.
-
-3. Connect to the provided Excel data source or replace it with your own data.
-
-4. Explore the dashboard’s interactive features, including cards and charts, to gain insights into HR metrics.
-
 ## Screenshots
 
 Include screenshots of your dashboard here to provide a visual overview of the insights and features.
@@ -44,10 +31,6 @@ Include screenshots of your dashboard here to provide a visual overview of the i
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
