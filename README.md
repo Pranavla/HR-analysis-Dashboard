@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML img Tag</title>
+      <title></title>
    </head>
    <body>
       <img src = "https://www.tutorialspoint.com/html5/images/html5-mini-logo.jpg"
