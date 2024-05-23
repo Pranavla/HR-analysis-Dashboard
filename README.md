@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title></title>
    </head>
    <body>
       <img src = "https://www.tutorialspoint.com/html5/images/html5-mini-logo.jpg"
