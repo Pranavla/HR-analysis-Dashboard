@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything related to data**
 
-- 📫 How to reach me **krishnaamal894@gmail.com**
+- 📫 How to reach me **pranavlal568@gmail.com**
 
 <h3 align="left">Connect with me:[Linkedin](https://www.linkedin.com/in/amal-krishna-u-s-b78887243/)</h3>
 <p align="left">
